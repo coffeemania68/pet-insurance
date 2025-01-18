@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>반려동물 보험 비교 | 주요 보험사 견적 비교</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
+</head>
+<body class="bg-gray-50">
+    <!-- 히어로 섹션 -->
+    <header class="relative bg-gradient-to-r from-blue-600 to-blue-800">
+        <div class="absolute inset-0">
+            <img class="w-full h-full object-cover mix-blend-multiply opacity-50" src="#" alt="반려동물 이미지">
+        </div>
+        <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
+            <h1 class="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">반려동물 보험 비교</h1>
+            <p class="mt-6 text-xl text-gray-100 max-w-3xl">주요 보험사의 펫보험 상품을 한눈에 비교해보세요</p>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <!-- 전체 그리드 컨테이너 -->
+        <div class="space-y-12">
+            <!-- 보험사 섹션 -->
+            <section>
+                <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">보험사별 펫보험 상품</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                    <!-- 삼성화재 -->
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+                        <div class="p-6">
+                            <div class="h-16 flex items-center justify-center bg-gray-50 rounded-lg mb-4">
+                                <span class="text-xl font-semibold text-gray-800">삼성화재</span>
+                            </div>
+                            <h3 class="text-xl font-bold text-blue-600 mb-4">착한펫보험</h3>
+                            <ul class="space-y-3 mb-6">
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    수의사 처방 시 항암치료비 보장
+                                </li>
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    강아지, 고양이 모두 가입 가능
+                                </li>
+                            </ul>
+                            <a href="https://direct.samsungfire.com/ria/pc/product/factory/?state=Front&product=petLong&state=Front&utm_campaign=pet&utm_source=naver&utm_medium=listing_t1&utm_term=%EA%B0%95%EC%95%84%EC%A7%80%EB%B3%B4%ED%97%98&utm_content=PE2401K0145" 
+                               class="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-300">
+                                견적 받기
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- 메리츠화재 -->
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+                        <div class="p-6">
+                            <div class="h-16 flex items-center justify-center bg-gray-50 rounded-lg mb-4">
+                                <span class="text-xl font-semibold text-gray-800">메리츠화재</span>
+                            </div>
+                            <h3 class="text-xl font-bold text-blue-600 mb-4">펫퍼민트</h3>
+                            <ul class="space-y-3 mb-6">
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    입원/통원/수술비 보장
+                                </li>
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    슬개골 탈구 보장
+                                </li>
+                            </ul>
+                            <a href="https://store.meritzfire.com/pet/direct-lndB01/contract.do?NaPm=ct=m60gk0ow|ci=0zy0001e2SDBw_WgVLiM|tr=sa|hk=32becfabdb28596c5bb898d8d04d7a6aebe95c45|nacn=dZt0BcAsdX9p#!/01" 
+                               class="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-300">
+                                견적 받기
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- DB손해보험 -->
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+                        <div class="p-6">
+                            <div class="h-16 flex items-center justify-center bg-gray-50 rounded-lg mb-4">
+                                <span class="text-xl font-semibold text-gray-800">DB손해보험</span>
+                            </div>
+                            <h3 class="text-xl font-bold text-blue-600 mb-4">펫블리</h3>
+                            <ul class="space-y-3 mb-6">
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    질병/상해 치료비 보장
+                                </li>
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    중성화 수술비 보장
+                                </li>
+                            </ul>
+                            <a href="https://www.idbins.com/FWMALV0783.do" 
+                               class="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-300">
+                                견적 받기
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- KB손해보험 -->
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+                        <div class="p-6">
+                            <div class="h-16 flex items-center justify-center bg-gray-50 rounded-lg mb-4">
+                                <span class="text-xl font-semibold text-gray-800">KB손해보험</span>
+                            </div>
+                            <h3 class="text-xl font-bold text-blue-600 mb-4">금쪽같은펫보험</h3>
+                            <ul class="space-y-3 mb-6">
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    입원/통원 치료비 보장
+                                </li>
+                                <li class="flex items-center text-gray-700">
+                                    <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                        <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path>
+                                    </svg>
+                                    수술비 보장
+                                </li>
+                            </ul>
+                            <a href="https://direct.kbinsure.co.kr/home/#/GL/LPC/LT_CM0101M/?pid=5110038&code=0473&utm_source=naver&utm_medium=naver_pc&utm_term=%EA%B0%95%EC%95%84%EC%A7%80%EB%B3%B4%ED%97%98&utm_campaign=sa_lpet&utm_content=5110038473" 
+                               class="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-300">
+                                견적 받기
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 전문 설계사 섹션 -->
+            <section class="mt-12">
+                <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">전문 설계사 상담</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- 광고 자리 1 -->
+                    <div class="bg-white rounded-xl shadow-lg p-6">
+                        <div class="text-center">
+                            <span class="inline-block px-4 py-1 bg-yellow-400 text-yellow-800 rounded-full text-sm font-semibold mb-4">광고 자리</span>
+                            <div class="w-24 h-24 bg-gray-200 rounded-full mx-auto mb-4"></div>
+                            <h3 class="text-xl font-bold text-gray-800">이곳에 귀하의 프로필이 표시됩니다</h3>
+                            <p class="text-gray-600 mt-2">전문 설계사로 등록해 주세요</p>
+                        </div>
+                    </div>
+
+                    <!-- 광고 자리 2 -->
+                    <div class="bg-white rounded-xl shadow-lg p-6">
+                        <div class="text-center">
+                            <span class="inline-block px-4 py-1 bg-yellow-400 text-yellow-800 rounded-full text-sm font-semibold mb-4">광고 자리</span>
+                            <div class="w-24 h-24 bg-gray-200 rounded-full mx-auto mb-4"></div>
+                            <h3 class="text-xl font-bold text-gray-800">이곳에 귀하의 프로필이 표시됩니다</h3>
+                            <p class="text-gray-600 mt-2">고객님의 반려동물을 위한 최적의 상품을 안내해드립니다</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 광고 문의 섹션 -->
+        <section class="agent-section">
+        <div class="container">
+            <h2 class="section-title">전문 설계사 상담</h2>
+            <p class="section-description">경험 많은 펫보험 전문 설계사와 상담하세요</p>
+            
+            <div class="insurance-grid">
+                <div class="agent-card premium">
+                    <div class="agent-photo">프로필 사진</div>
+                    <h3>김태희 설계사</h3>
+                    <p>삼성화재 펫보험 전문</p>
+                    <ul class="feature-list">
+                        <li>펫보험 상담 10년 경력</li>
+                        <li>반려동물 의료비 전문가</li>
+                        <li>24시간 카톡 상담 가능</li>
+                    </ul>
+                    <a href="#" class="cta-button">상담 예약하기</a>
+                </div>
+
+                <div class="agent-card premium">
+                    <div class="agent-photo">프로필 사진</div>
+                    <h3>이민정 설계사</h3>
+                    <p>메리츠화재 펫보험 전문</p>
+                    <ul class="feature-list">
+                        <li>펫보험 가입 실적 1위</li>
+                        <li>반려동물 행동교정 전문가</li>
+                        <li>무료 상담 제공</li>
+                    </ul>
+                    <a href="#" class="cta-button">상담 예약하기</a>
+                </div>
+            </div>
+
+            <div class="ad-info">
+                <h3>펫보험 전문 설계사로 등록하세요</h3>
+                <p>월 평균 100명 이상의 고객이 펫보험 상담을 신청합니다</p>
+                <div class="price-tag">프리미엄 광고 월 99,000원</div>
+                <p>프리미엄 광고 특전</p>
+                <ul class="feature-list" style="display: inline-block; text-align: left;">
+                    <li>프리미엄 뱃지 표시</li>
+                    <li>상담 우선 배정</li>
+                    <li>프로필 상세 정보 제공</li>
+                </ul>
+                <a href="#" class="cta-button" style="max-width: 300px; margin: 30px auto 0;">광고 문의하기</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
