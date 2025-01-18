@@ -17,13 +17,16 @@
             color: #333;
         }
 
+      
         .header {
-            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/api/placeholder/1200/400');
-            background-size: cover;
-            color: white;
-            padding: 100px 20px;
-            text-align: center;
-        }
+    position: relative;
+    background-image: url('https://mypawstory.com/wp-content/uploads/2025/01/Pink-Brown-Organic-Pet-Shop-Instagram-Post-300x300.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+        
 
         .header h1 {
             font-size: 2.5em;
@@ -154,16 +157,21 @@
             font-weight: bold;
         }
 
-        .agent-photo {
-            width: 120px;
-            height: 120px;
-            border-radius: 60px;
-            margin: 0 auto 20px;
-            background: #f5f5f5;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+     .agent-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.agent-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
         .ad-info {
             background: #f0f7ff;
@@ -275,8 +283,9 @@
             
             <div class="insurance-grid">
                 <div class="agent-card premium">
-                    <div class="agent-photo">프로필 사진</div>
-                    <img src="https://blog.kakaocdn.net/dn/1e3dz/btsLS5G7BUU/3dZbWTbsQ1YQYHGAeQHpw0/img.jpg" alt="이미지1">
+                   <div class="agent-photo">
+    <img src="https://blog.kakaocdn.net/dn/c5rsRL/btsLS2DBUGx/yPZxNHjgLJKp3cH5RJRG1k/img.jpg" alt="프로필 이미지">
+</div>
                     <h3>김태희 설계사</h3>
                     <p>삼성화재 펫보험 전문</p>
                     <ul class="feature-list">
@@ -288,8 +297,9 @@
                 </div>
 
                 <div class="agent-card premium">
-                    <div class="agent-photo">프로필 사진</div>
-                    <img src="https://blog.kakaocdn.net/dn/c5rsRL/btsLS2DBUGx/yPZxNHjgLJKp3cH5RJRG1k/img.jpg" alt="이미지2">
+                    <div class="agent-photo">
+    <img src="https://blog.kakaocdn.net/dn/1e3dz/btsLS5G7BUU/3dZbWTbsQ1YQYHGAeQHpw0/img.jpg" alt="프로필 이미지">
+</div>
                     <h3>이민정 설계사</h3>
                     <p>메리츠화재 펫보험 전문</p>
                     <ul class="feature-list">
