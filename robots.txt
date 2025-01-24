@@ -1,5 +1,3 @@
 User-agent: *
-Allow: /
-Allow: /feed.xml
 
 Sitemap: https://insurance.mypawstory.com/sitemap.xml
